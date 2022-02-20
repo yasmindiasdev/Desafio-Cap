@@ -123,6 +123,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86676797?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Yasmin Dias de Souza</b></sub></a>
