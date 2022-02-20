@@ -122,6 +122,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[JAVA](https://www.java.com/pt-BR/)**
 
 ## 🦸 Autor
-
- <br />
  <sub><b><h1>Yasmin Dias de Souza</h1></b></sub></a>
