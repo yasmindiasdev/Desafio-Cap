@@ -124,4 +124,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
  <br />
- <sub><b>Yasmin Dias de Souza</b></sub></a>
+ <sub><b><h1>Yasmin Dias de Souza</h1></b></sub></a>
