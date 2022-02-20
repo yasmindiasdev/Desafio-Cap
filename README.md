@@ -98,7 +98,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com). 
 Além disso, sugiro utilizar o editor [VSCode](https://code.visualstudio.com/)
 
-#### 🧭 Rodando a aplicação web (Front-End)
+#### 🧭 Rodando a aplicação
 
 ```bash
 # Clone este repositório
@@ -107,8 +107,8 @@ $ git clone https://github.com/yasmindiasdev/Desafio-Cap.git
 $ cd Desafio-Cap
 # Abra o código no VS Code
 $ code .
-# Entre na pasta a qual quer executar
-Ex: DesafioEscada\src\Escada.java e clique em run
+# Entre no aqrquivo o qual quer executar
+Ex: Escada.java e clique em run
 ```
 
 ---
